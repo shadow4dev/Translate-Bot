@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@iamtraction/google-translate": "^2.0.1",
+    "config": "^3.3.12",
+    "discord.js": "^14.16.3",
+    "install": "^0.13.0"
+  }
+}
